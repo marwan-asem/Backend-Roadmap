@@ -1,0 +1,7 @@
+<svg width="220" height="64" viewBox="0 0 220 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="220" height="64" rx="8" fill="white"/>
+  <path d="M27 20L16 32L27 44" stroke="#18a66a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M51 20L62 32L51 44" stroke="#18a66a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M43 15L34 49" stroke="#18a66a" stroke-width="4" stroke-linecap="round"/>
+  <text x="82" y="40" fill="#111827" font-family="Arial, sans-serif" font-size="24" font-weight="700">CodeStart</text>
+</svg>
